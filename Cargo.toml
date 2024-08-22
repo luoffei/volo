@@ -124,12 +124,12 @@ url_path = "0.1"
 walkdir = "2"
 
 # Optional dependencies
-rustls = "0.22"
+rustls = "0.23"
 rustls-pemfile = "2"
 rustls-pki-types = "1"
 webpki-roots = "0.26"
 
-tokio-rustls = "0.25"
+tokio-rustls = "0.26"
 native-tls = "0.2"
 tokio-native-tls = "0.3"
 tokio-tungstenite = "0.23.1"
